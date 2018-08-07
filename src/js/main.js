@@ -2,6 +2,7 @@
 const splash = document.querySelector('.flex-container')
 const principal = document.getElementById('principal')
 
+
 principal.style.display = 'none'
 
 setTimeout(() => {
