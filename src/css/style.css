@@ -1,0 +1,10 @@
+body {
+    /* background-color: #ED4048 */
+}
+.flex-container {
+    display: flex;
+     height: 600px; 
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+  }
