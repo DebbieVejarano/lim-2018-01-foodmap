@@ -1,15 +1,25 @@
-body{
-    background-color: blueviolet;
-    height: 100%;
-    width: 100%;
+body {
+  background-color: #ff4048;
+  display: flex;
+  min-height: 100vh;
 }
 
-
 .flex-container {
-    display: flex;
-    width: 100%;
-     height: 100%; 
-    justify-content: center;
-    align-items: center;
-    background-color:#ff4048;
-  }
+  margin: auto;
+  background-color: #ff4048;
+}
+
+.principal {
+    background-color: darkorange;
+    min-height: 100vh;
+    margin: auto;
+}
+
+.w3-container {
+    min-height: 100vh;
+    background-color: green;
+}
+
+.search {
+    margin-top: 20px;
+}
