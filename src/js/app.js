@@ -1,3 +1,8 @@
+/* variables */
+const splashView = document.querySelector('.flex-container')
+
 setTimeout(()=>{
-    alert('hola universo')
-},2000)
+/* splashView.style.display = 'none' */
+/* alert('hola, universo') */
+}, 2000)
+
