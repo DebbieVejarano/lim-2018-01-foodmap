@@ -1,0 +1,122 @@
+[{
+    "name": "Juanitos",
+    "type": "internacional",
+    "stars": 3,
+    "distance": 200,
+    "photo": "../data/imgRestaurants/0jpg.jpg",
+    "address": "Qanchipata 596, Cusco, Cusco (Cusco)",
+    "description": "Sándwiches con las más variadas combinaciones. Juanitos es un café especializado en sándwiches. Hay más de 30 diferentes tipos y algunas combinaciones singulares."
+
+  },
+  {
+    "name": "Limo",
+    "type": "cocina peruana",
+    "stars": 8.3,
+    "distance": 500,
+    "photo": "../data/imgRestaurants/1.jpg",
+    "address": "Portal de Carnes 236, 2do piso, Plaza de Armas, Cusco, Cusco (Cusco)",
+    "description": "Cocina peruana que se fusiona con los más ricos sabores de la gastronomía oriental."
+
+  },
+  {
+    "name": "El Hada",
+    "type": "Cocina cafetería",
+    "stars": 6,
+    "distance": 1000,
+    "photo": "../data/imgRestaurants/2.jpg",
+    "address": "Psje. Arequipa 165, Cusco, Cusco (Cusco)",
+    "description": "Un espacio encantador que te engreirá con una gran variedad de postres hechos con mucho amor."
+  },
+  {
+    "name": "Greens Organic",
+    "type": "Cocina vegetariana orgánica",
+    "stars": 8.1,
+    "distance": 400,
+    "photo": "../data/imgRestaurants/3.jpg",
+    "address": "Calle Santa Catalina Angosta 135, 2do piso, Plaza de armas, Cusco, Cusco, Cusco (Cusco) ",
+    "description": "Comida saludable de toques vegetarianos y al mejor estilo mediterráneo que disfrutas en un espacio en el que la madera te conecta con lo natural."
+
+  },
+
+  {
+    "name": "The Frogs",
+    "type": "Cocina internacional peruana",
+    "stars": 10,
+    "distance": 800,
+    "photo": "../data/imgRestaurants/4.jpg",
+    "address": "Huarancallqui 185, Cusco, Cusco (Cusco)",
+    "description": "The Frogs es un restaurante & lounge de la ciudad del Cuzco, muy conocido por su buena onda y amigable serivcio. Cuenta con juegos, música en vivo, muchos tragos y buena comida para visitar en la noche."
+
+  },
+  {
+    "name": "Deli Monasterio Coffee & More",
+    "type": "cocina cafeteria",
+    "stars": 7.7,
+    "distance": 2500,
+    "photo": "../data/imgRestaurants/4.jpg",
+    "address": "Palacio 136 (Belmond Hotel Monasterio), Cusco (Cusco) ",
+    "description": "Deli Monasterio Coffee & More es una cafetería confortable en Belmond Hotel Monasterio, en el histórico departamento de Cusco. Aquí podrás saborear el auténtico sabor del café, además de sabrosos tragos y bebidas para pasar un momento tranquilo en un buen ambiente para conversar, con buena música de fondo. "
+
+  },
+  {
+    "name": "Casa de la Salud",
+    "type": "cocina vegetariana andina",
+    "stars": 6.7,
+    "distance": 5500,
+    "photo": "../data/imgRestaurants/5.jpg",
+    "address": "Av. Los Incas 1006, Wanchaq, Cusco (Cusco) ",
+    "description": "El Restaurante Casa de la Salud del Cusco te espera en el cálido distrito de Wanchaq con una fantástica selección de platillos vegetarianos. Allí podrás disfrutar de gastronomía saludable con recetas creadas para brindarte opciones innovadoras de delicioso sabor."
+
+  },
+  {
+    "name": "Jack's Café",
+    "type": "cocina internacional cafetería",
+    "stars": 8.2,
+    "distance": 1200,
+    "photo": "../data/imgRestaurants/6.jpg",
+    "address": "Calle Choquechaka 509, Cusco, Cusco (Cusco)",
+    "description": "El Restaurante Jack's Café de Cusco te brinda un espacio bohemio y cálido, perfecto para tomar un desayuno por las mañanas o una taza de café por la tarde, conversando con tus amigos o disfrutando de un momento a solas."
+
+  },
+
+  {
+    "name": "El Truco",
+    "type": "cocina internacional peruana",
+    "stars": 7.7,
+    "distance": 1800,
+    "photo": "../data/imgRestaurants/7.jpg",
+    "address": " Plaza Regocijo 261, Cusco, Cusco (Cusco) ",
+    "description": "El Restaurante El Truco de Cusco es una casona y también museo en el que disfrutarás de una exquisita propuesta gastronómica rodeado de una decoración que desborda arte y tradición."
+
+  },
+  {
+    "name": "Pachapapa",
+    "type": "Regional Peruana",
+    "stars": 9.1,
+    "distance": 1800,
+    "photo": "../data/imgRestaurants/8.jpg",
+    "address": " Plazoleta San Blas 120, Cusco, Cusco (Cusco) ",
+    "description": "El Restaurante Pachapapa ofrece sabores tradicionales de la comida regional cusqueña y sin perder el toque tradicional, por eso la cocción de sus insumos se realiza en ollas de barro y hornos de piedra a leña."
+
+  },
+  {
+    "name": "Cevichería Las Machitas",
+    "type": "cocina marina pescados Peruana",
+    "stars": 7.1,
+    "distance": 1100,
+    "photo": "../data/imgRestaurants/9.jpg",
+    "address": " Av. Perú F-9, Wanchac, Wanchaq, Cusco (Cusco)",
+    "description": "Las Machitas es un lugar acogedor y tranquilo donde tanto los lugareños como los turistas son siempre bienvenidos. Es muy fácil llegar pues se encuentra a pasos de la estación Wanchaq y muy cerca del centro de la ciudad."
+
+  },
+  {
+    "name": "Deva",
+    "type": "cocina casera, vegetariana, peruana",
+    "stars": 8.0,
+    "distance": 350,
+    "photo": "../data/imgRestaurants/10.jpg",
+    "address": " San Agustín 280, Cusco, Cusco (Cusco)",
+    "description": "El Restaurante Deva de Cusco te espera con los mejores platillos típicos de la ciudad, tan deliciosos como tradicionales."
+
+  }
+]

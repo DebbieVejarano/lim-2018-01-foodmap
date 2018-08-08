@@ -11,3 +11,16 @@ setTimeout(() => {
     document.body.style.background = '#ffffff'
      document.body.style.display = 'block'
     }, 2000);
+
+fetch('../data/restaurant.json')
+.then(response => response.json())
+.then(data => {
+    console.log(data)
+    let imagen = data[0].photo
+    const prueba = document.querySelector('.prueba')
+    prueba.innerHTML = `
+    <img src="${imagen}" alt="loho">
+    `
+
+} )
+
