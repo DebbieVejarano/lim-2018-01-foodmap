@@ -1,25 +1,9 @@
-body {
-  background-color: #ff4048;
-  display: flex;
-  min-height: 100vh;
+.splash {
+	background-color: #ee6e73;
+	height: 100vh;
+	justify-content: center;
 }
 
-.flex-container {
-  margin: auto;
-  background-color: #ff4048;
-}
-
-.principal {
-    background-color: darkorange;
-    min-height: 100vh;
-    margin: auto;
-}
-
-.w3-container {
-    min-height: 100vh;
-    background-color: green;
-}
-
-.search {
-    margin-top: 20px;
+input{
+    color:white;
 }
